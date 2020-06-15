@@ -323,10 +323,6 @@ repositories:
     type: git
     url: https://github.com/ros2/rosidl_typesupport_opensplice.git
     version: eloquent
-  ros2/rviz:
-    type: git
-    url: https://github.com/ros2/rviz.git
-    version: eloquent
   ros2/spdlog_vendor:
     type: git
     url: https://github.com/ros2/spdlog_vendor.git
