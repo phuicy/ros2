@@ -241,7 +241,7 @@ repositories:
     version: eloquent
   ros2/rcutils:
     type: git
-    url: https://github.com/ros2/rcutils.git
+    url: https://github.com/phuicy/rcutils.git
     version: eloquent
   ros2/realtime_support:
     type: git
